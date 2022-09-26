@@ -1,0 +1,20 @@
+body {
+    background-color: hsl(30, 38%, 92%);
+  }
+  
+  table {
+    border-radius: 20px;
+    overflow: hidden;
+    border-collapse: collapse;
+  }
+  
+  .wrapper-div {
+    width: auto;
+    margin: auto;
+  }
+  
+  .main-div {
+    width: fit-content;
+    margin: 135px 470px;
+    position: absolute;
+  }
